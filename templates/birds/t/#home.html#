@@ -1,8 +1,0 @@
-{% extends "rest_framework/base.html" %}
-
-{% block title %} meliza-lab : bird colony {% endblock %}
-
-{% block content %}
-
-
-{% endblock %}
